@@ -19,7 +19,7 @@ In this tutorial, you will learn how to:
 
 ## Access the Full Article
 
-To access the full article, visit: [Creating a Custom Toggle Hook in Your ReactJS Application](https://your-article-link-here.com)
+To access the full article, visit: [Creating a Custom Toggle Hook in Your ReactJS Application](https://dev.to/canhamzacode/how-to-create-a-custom-hook-in-your-reactjs-application-2eod)
 
 ## Usage
 
